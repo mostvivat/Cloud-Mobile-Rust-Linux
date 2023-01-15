@@ -1,0 +1,1 @@
+C:\Users\pokem\OneDrive\Documents\Rust_project\kmutnb-cn-vivat-3\lab03-2023-01-13\as-02\target\debug\as-02.exe: C:\Users\pokem\OneDrive\Documents\Rust_project\kmutnb-cn-vivat-3\lab03-2023-01-13\as-02\src\main.rs
